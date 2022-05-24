@@ -12,4 +12,4 @@
 
 ##
   
-  
+  ![Snake animation](https://github.com/isabellamauricio/isabellamauricio/blob/output/github-contribution-grid-snake.svg)
