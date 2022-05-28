@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou a <a href="#"><i>Isabella Mauricio</i></a> ✨</h1>
+  <h1 align="center">Oii, eu sou a <a href="#"><i>Isabella Mauricio</i></a> ✨</h1>
   <p align="center">Estudo UX/UI Design e Front-End na <a href="https://www.origamid.com/"><i>Origamid</i></a> e a cada dia que passa me apaixono mais no que faço.
 
 ##
